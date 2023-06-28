@@ -1,0 +1,6 @@
+colorama==0.4.4
+gitdb==4.0.7
+GitPython==3.1.24
+smmap==4.0.0
+tabulate==0.8.9
+typing-extensions==3.10.0.2
